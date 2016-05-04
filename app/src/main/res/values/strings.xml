@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">GPS-location</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">GPS</string>
+    <string name="hello_world_splash">splash</string>
+
+</resources>

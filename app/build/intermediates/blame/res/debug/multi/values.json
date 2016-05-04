@@ -1,0 +1,110 @@
+[
+    {
+        "outputFile": "/home/martin/Android-Location-using-GPS-Code-Sample-master1/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/martin/Android-Location-using-GPS-Code-Sample-master1/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/home/martin/Android-Location-using-GPS-Code-Sample-master1/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 49,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "/home/martin/Android-Location-using-GPS-Code-Sample-master1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 49,
+                        "endOffset": 62
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 52,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "/home/martin/Android-Location-using-GPS-Code-Sample-master1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 53,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "/home/martin/Android-Location-using-GPS-Code-Sample-master1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 50,
+                    "endOffset": 372
+                },
+                "from": {
+                    "file": "/home/martin/Android-Location-using-GPS-Code-Sample-master1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 377,
+                    "endColumn": 51,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "/home/martin/Android-Location-using-GPS-Code-Sample-master1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 429,
+                    "endColumn": 57,
+                    "endOffset": 482
+                },
+                "from": {
+                    "file": "/home/martin/Android-Location-using-GPS-Code-Sample-master1/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]
